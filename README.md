@@ -1,4 +1,3 @@
 # shroffpratik
-Code from Pratik 
+Code from Pratik for GitHub Repo Search
 
-Git ignore
