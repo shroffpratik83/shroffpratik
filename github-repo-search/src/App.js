@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Gitreposearch from './components/Gitreposearch'
 
 function App() {
   return (
     <div className="App">
-      
+      <Gitreposearch/>
     </div>
   );
 }
